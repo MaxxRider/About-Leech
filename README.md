@@ -1,9 +1,13 @@
-# for support join here [TorrentLeech-Gdrive](https://telegram.dog/GBotStore)
-# working example group [Leech Here](https://telegram.dog/GBotStore)
+![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
 
-# Telegram Torrent Leecher 🔥🤖
+👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
 
-A Telegram Torrent (and youtube-dl) Leecher based on [Pyrogram](https://github.com/pyrogram/pyrogram)
+![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
+
+#<b>Don't Kill Heroku please ☹️</b>
+
+[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
